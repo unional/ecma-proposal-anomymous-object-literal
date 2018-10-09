@@ -1,0 +1,23 @@
+{
+	"name": "ecma-proposal-anomymous-object-literal",
+	"version": "0.0.0",
+	"description": "ECMAScript spec proposal for anomymous object literal",
+	"keywords": [
+		"ECMAScript",
+		"ESNext",
+		"spec"
+	],
+	"homepage": "https://github.com/unional/ecma-proposal-anomymous-object-literal#readme",
+	"bugs": {
+		"url": "https://github.com/unional/ecma-proposal-anomymous-object-literal/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/unional/ecma-proposal-anomymous-object-literal.git"
+	},
+	"license": "MIT",
+	"author": "Homa Wong <homawong@gmail.com>",
+	"scripts": {
+		"prepublish": "echo >&2 'no publishing' && exit 255"
+	}
+}
